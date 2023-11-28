@@ -224,7 +224,7 @@ for (const [key, value] of Object.entries(sortedData)) {
     range.type = "range"
     range.disabled = true
     range.classList.add("progress-bar")
-    range.value = Math.floor(value["exp"] / 100)
+    range.value = value["exp"] % 100
     item.append(range)
 
     let exp = document.createElement("span")
