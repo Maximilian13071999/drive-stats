@@ -11,13 +11,13 @@ data = {
         "photo": "andrey.jpg"
     }, "3": {
         "name": "Екатерина Сакова",
-        "coins": 170,
-        "exp": 60,
+        "coins": 60,
+        "exp": 170,
         "photo": "katya.jpg"
     }, "4": {
         "name": "Елизавета Ясинская",
-        "coins": 72,
-        "exp": 20,
+        "coins": 22,
+        "exp": 70,
         "photo": "liza.jpg"
     }, "5": {
         "name": "Елизавета Ветлужских",
