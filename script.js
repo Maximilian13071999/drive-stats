@@ -136,13 +136,13 @@ data = {
         "photo": "alena.jpg"
     }, "28": {
         "name": "Валерия Гришина",
-        "coins": 20,
-        "exp": 50,
+        "coins": 40,
+        "exp": 100,
         "photo": "grish.jpg"
     }, "29": {
         "name": "Катерина Плешакова",
-        "coins": 0,
-        "exp": 0,
+        "coins": 20,
+        "exp": 50,
         "photo": "pleshakova.jpg"
     }, "30": {
         "name": "Павел Максимов",
@@ -181,8 +181,8 @@ data = {
         "photo": "yar.jpg"
     }, "37": {
         "name": "Анжела Финаева",
-        "coins": 2,
-        "exp": 30,
+        "coins": 22,
+        "exp": 80,
         "photo": "angel.png"
     }
 }
