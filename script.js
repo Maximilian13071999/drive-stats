@@ -6,8 +6,8 @@ data = {
         "photo": "popo.jpg"
     }, "2": {
         "name": "Андрей Красник",
-        "coins": 40,
-        "exp": 0,
+        "coins": 0,
+        "exp": 40,
         "photo": "andrey.jpg"
     }, "3": {
         "name": "Екатерина Сакова",
