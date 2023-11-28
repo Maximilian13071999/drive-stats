@@ -19,11 +19,6 @@ data = {
         "coins": 22,
         "exp": 70,
         "photo": "liza.jpg"
-    }, "5": {
-        "name": "Елизавета Ветлужских",
-        "coins": 0,
-        "exp": 0,
-        "photo": "liza2.jpg"
     }, "6": {
         "name": "Алина Марченкова",
         "coins": 3,
