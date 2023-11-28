@@ -1,23 +1,23 @@
 data = {
     "1": {
         "name": "Полина Нестерова",
-        "coins": 4,
-        "exp": 0,
+        "coins": 34,
+        "exp": 110,
         "photo": "popo.jpg"
     }, "2": {
         "name": "Андрей Красник",
-        "coins": 0,
+        "coins": 40,
         "exp": 0,
         "photo": "andrey.jpg"
     }, "3": {
         "name": "Екатерина Сакова",
-        "coins": 0,
-        "exp": 0,
+        "coins": 170,
+        "exp": 60,
         "photo": "katya.jpg"
     }, "4": {
         "name": "Елизавета Ясинская",
-        "coins": 2,
-        "exp": 0,
+        "coins": 72,
+        "exp": 20,
         "photo": "liza.jpg"
     }, "5": {
         "name": "Елизавета Ветлужских",
@@ -27,27 +27,27 @@ data = {
     }, "6": {
         "name": "Алина Марченкова",
         "coins": 3,
-        "exp": 0,
+        "exp": 30,
         "photo": "alina.jpg"
     }, "7": {
         "name": "Анастасия Короткова",
-        "coins": 0,
-        "exp": 0,
+        "coins": 20,
+        "exp": 70,
         "photo": "asya.jpg"
     }, "8": {
         "name": "Валентин-Демьян Воронин",
-        "coins": 1,
-        "exp": 0,
+        "coins": 21,
+        "exp": 80,
         "photo": "wel.jpg"
     }, "9": {
         "name": "Дария Крымова",
-        "coins": 0,
-        "exp": 0,
+        "coins": 10,
+        "exp": 50,
         "photo": "dariy.jpg"
     }, "10": {
         "name": "Евгений Манжеев",
         "coins": 1,
-        "exp": 0,
+        "exp": 30,
         "photo": "zhenya.jpg"
     }, "11": {
         "name": "Александр Якубов",
@@ -56,73 +56,73 @@ data = {
         "photo": "sanya.jpg"
     }, "12": {
         "name": "Анастасия Тишкина",
-        "coins": 0,
-        "exp": 0,
+        "coins": 20,
+        "exp": 70,
         "photo": "tish.jpg"
     }, "13": {
         "name": "Кирилл Рогачёв",
-        "coins": 1,
-        "exp": 0,
+        "coins": 21,
+        "exp": 60,
         "photo": "rog.jpg"
     }, "14": {
         "name": "Светлана Шальнова",
-        "coins": 0,
-        "exp": 0,
+        "coins": 20,
+        "exp": 60,
         "photo": "svet.jpg"
     }, "15": {
         "name": "Олеся Минченкова",
-        "coins": 0,
-        "exp": 0,
+        "coins": 20,
+        "exp": 50,
         "photo": "olesya.jpg"
     }, "16": {
         "name": "Валерия Антипенко",
         "coins": 0,
-        "exp": 0,
+        "exp": 30,
         "photo": "lerchic.jpg"
     }, "17": {
         "name": "Даниила Ковалева",
         "coins": 0,
-        "exp": 0,
+        "exp": 20,
         "photo": "dana.jpg"
     }, "18": {
         "name": "Марина Ермакова",
         "coins": 0,
-        "exp": 0,
+        "exp": 10,
         "photo": "marina.jpg"
     }, "19": {
         "name": "Иван Залипаев",
-        "coins": 0,
-        "exp": 0,
+        "coins": 10,
+        "exp": 70,
         "photo": "ivan.jpg"
     }, "20": {
         "name": "Валерия Бормотова",
-        "coins": 0,
-        "exp": 0,
+        "coins": 20,
+        "exp": 70,
         "photo": "bor.jpg"
     }, "21": {
         "name": "Даша Толшмякова",
         "coins": 0,
-        "exp": 0,
+        "exp": 60,
         "photo": "tolsh.jpg"
     }, "22": {
         "name": "Валерия Толочко",
-        "coins": 0,
-        "exp": 0,
+        "coins": 20,
+        "exp": 70,
         "photo": "tolo.jpg"
     }, "23": {
         "name": "Максим Осипов",
         "coins": 0,
-        "exp": 0,
+        "exp": 10,
         "photo": "osi.jpg"
     }, "24": {
         "name": "Диана Тен",
         "coins": 0,
-        "exp": 0,
+        "exp": 10,
         "photo": "di.jpg"
     }, "25": {
         "name": "Полина Колесникова",
-        "coins": 0,
-        "exp": 0,
+        "coins": 20,
+        "exp": 50,
         "photo": "kol.jpg"
     }, "26": {
         "name": "Михаил Виноградов",
@@ -132,12 +132,12 @@ data = {
     }, "27": {
         "name": "Алёна Чумак",
         "coins": 0,
-        "exp": 0,
+        "exp": 10,
         "photo": "alena.jpg"
     }, "28": {
         "name": "Валерия Гришина",
-        "coins": 0,
-        "exp": 0,
+        "coins": 20,
+        "exp": 50,
         "photo": "grish.jpg"
     }, "29": {
         "name": "Катерина Плешакова",
@@ -166,13 +166,13 @@ data = {
         "photo": "tasya.jpg"
     }, "34": {
         "name": "Татьяна Сафронова",
-        "coins": 0,
-        "exp": 0,
+        "coins": 20,
+        "exp": 50,
         "photo": "saf.jpg"
     }, "35": {
         "name": "Мария Соломян",
         "coins": 0,
-        "exp": 0,
+        "exp": 40,
         "photo": "sol.jpg"
     }, "36": {
         "name": "Юлия Ярыгина",
@@ -182,7 +182,7 @@ data = {
     }, "37": {
         "name": "Анжела Финаева",
         "coins": 2,
-        "exp": 0,
+        "exp": 30,
         "photo": "angel.png"
     }
 }
