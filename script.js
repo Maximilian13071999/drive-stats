@@ -207,7 +207,7 @@ for (const [key, value] of Object.entries(sortedData)) {
 
     let coins = document.createElement("span")
     coins.classList.add("coins")
-    coins.innerText = value["coins"] + " DriveCoins"
+    coins.innerText = value["coins"] + Math.floor(value["exp"] / 100) * 20 + " DriveCoins"
     item.append(coins)
 
     let level = document.createElement("span")
